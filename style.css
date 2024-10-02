@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: 0;
+}
+
+header {
+  background-color: tomato;
+  height: 50px;
+  padding: 7px;
+}
+
+h1 {
+  text-align: center;
+  color: hsl(10, 90%, 50%);
+}
+
+img {
+  align-items: right;
+  width: 200px;
+  display: inline;
+}
+
+figure {
+  margin: 15px 0px 0px 200px;
+}/*# sourceMappingURL=style.css.map */
